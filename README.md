@@ -1,4 +1,4 @@
-<img src="UFund-font.png" align="right" alt="" width="180"/>
+<img src="img/UFund-font.png" align="right" alt="" width="180"/>
 
 
 # UFund, Me
