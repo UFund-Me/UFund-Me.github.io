@@ -39,7 +39,7 @@
 - [Team](#team)
 
 <div align="center">
-    <img src="./comming_soon.png" width="200px">
+    <img src="./img/comming_soon.png" width="200px">
 </div>
 <br>
 
