@@ -1,4 +1,4 @@
-<img src="img/UFund-font.png" align="right" alt="" width="180"/>
+<img src="./img/UFund-font.png" align="right" alt="" width="180"/>
 
 
 # UFund, Me
@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-    <img src="./UFund.png" width="200px">
+    <img src="./img/UFund.png" width="200px">
 </div>
 
 <h3 align="center">UFund, an Alipay Fund Assistant</h3>
