@@ -52,7 +52,7 @@
 	<td>
 		<details>
   		<summary>WeChat</summary>
-			<img src="./WeChat-sponsor.png" width="300px">
+			<img src="./img/WeChat-sponsor.png" width="300px">
 		</details>
 	</td>
 	<td>
