@@ -65,9 +65,9 @@
 <br>
 
 
-## privacy
-<a href="privacy.html">隐私协议</a>
+## Privacy Agreement
 
+<a href="https://github.com/UFund-Me/UFund-Me.github.io/blob/master/privacy.html">隐私协议</a>
 
 # Sponsor
 <table>
