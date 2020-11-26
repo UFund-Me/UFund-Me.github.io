@@ -1,12 +1,14 @@
+<p align="right">
+<a href="https://ufund-me.github.io" target="_blank">Home Page</a> | English | <a href="ReadmeChinese.md" target="_blank">中文</a>
+</p>
+
 <img src="./img/UFund-font.png" align="right" alt="" width="180"/>
 
 
 # UFund, Me
 
 支付宝智能基金理财助理帮你健康理财决策，提高理财收益
-
-<a href="https://ufund-me.github.io/" target="_blank">Home Page</a> | English | <a href="ReadmeChinese.md" target="_blank">中文</a>
-<br>
+<br><br>
 
 <div align="center">
     <img src="./img/UFund.png" width="200px">
