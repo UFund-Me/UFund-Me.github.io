@@ -64,10 +64,13 @@
 </div>
 <br>
 
+### 🍮 Community
 
-## Privacy Agreement
+Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/issues/1#issue-751252906" target="_blank"> COMMUNITY </a>.
 
-<a href="https://github.com/UFund-Me/UFund-Me.github.io/blob/master/privacy.html">隐私协议</a>
+### 📚 Code of conduct
+
+<a href="https://UFund-Me.github.io/doc/privacy.html">隐私协议</a>
 
 # Sponsor
 <table>
