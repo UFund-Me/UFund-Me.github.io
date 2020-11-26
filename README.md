@@ -25,7 +25,7 @@
   <a href="https://github.com/UFund-Me/UFund">
 	<img alt="Alipay Fund Assistant" src="https://img.shields.io/badge/Fund--Assistant-支付宝Alipay-blue.svg">
   </a>
-  <a href="https://github.com/pybluez/pybluez/actions?query=workflow%3ABuild">
+  <a href="https://github.com/UFund-Me/UFund">
     <img alt="Build Status" src="https://github.com/pybluez/pybluez/workflows/Build/badge.svg">
   </a>
 </p>
