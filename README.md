@@ -22,7 +22,7 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
   </a>
-  <a href="https://github.com/Charmve/Alipay-Fund-Assistant">
+  <a href="https://github.com/UFund-Me/UFund">
 	<img alt="Alipay Fund Assistant" src="https://img.shields.io/badge/Fund--Assistant-支付宝Alipay-blue.svg">
   </a>
   <a href="https://github.com/pybluez/pybluez/actions?query=workflow%3ABuild">
@@ -63,6 +63,11 @@
     <br> <i>A demo of UFund</i>
 </div>
 <br>
+
+
+## privacy
+<a href="privacy.html">隐私协议</a>
+
 
 # Sponsor
 <table>
