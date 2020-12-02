@@ -44,7 +44,7 @@
 
 # Status: Beta
 
-This project is still under heavy development. Feel free to join us and make your first pull request.
+This project is still under heavy development. Feel free to join us and make your first <a href="https://github.com/UFund-Me/UFund-Me.github.io/pulls" target="_blank">pull request</a> or any <a href="https://github.com/UFund-Me/UFund/issues" target="_blank">issues</a>.
 
 # Contents
 
