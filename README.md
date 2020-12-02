@@ -42,6 +42,9 @@
 
 - 更多功能可以通过设置按钮进入设置页面，可以开启角标提醒功能，调整展示内容；可以开启显示估值收益，显示持有收益，开启后可以在编辑按钮中填入持有份额与成本价，插件会自动计算对应的收益情况。
 
+# Status: Beta
+
+This project is still under heavy development. Feel free to join us and make your first pull request.
 
 # Contents
 
@@ -70,7 +73,7 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 
 ### 📚 Code of conduct
 
-<a href="https://UFund-Me.github.io/doc/privacy.html target="_blank"">隐私协议</a>
+<a href="https://UFund-Me.github.io/doc/privacy.html" target="_blank">隐私协议</a>
 
 # Sponsor
 <table>
