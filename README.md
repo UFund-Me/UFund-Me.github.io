@@ -80,7 +80,7 @@ This project is still under heavy development. Feel free to join us and make you
 	  <b>UFund increase returns just with little principal</b>
       </td>
       <td style="text-align: center" colspan="3">
-	  <img src="./result/result.png">
+	  <img src="./result/result.png"  width="720">
       </td>
       <td style="text-align: center" colspan="1">
 	  <img src="./result/principal.jpg" alt="principal" width="240">
@@ -99,13 +99,13 @@ This project is still under heavy development. Feel free to join us and make you
 	  <b>TEST Total Investment</b>
       </td>
       <td style="text-align: center" colspan="2">
-	  <img src="./result/Total_Investment.png">
+	  <img src="./result/Total_Investment.png" width="480">
       </td>
       <td style="text-align: left" colspan="1">
-	  <img src="./result/year_investment.png">    
+	  <img src="./result/year_investment.png" width="240">    
       </td>
       <td style="text-align: left" colspan="1">
-	  <img src="./result/rank_95.png" width="600">    
+	  <img src="./result/rank_95.png" width="240">    
       </td>
     </tr>
     <tr>
@@ -124,13 +124,13 @@ This project is still under heavy development. Feel free to join us and make you
 	  <b>CASE</b>    
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_1.jpg" alt="case1" width="300">    
+	  <img src="./result/result_1.jpg" alt="case1" width="240">    
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_2.jpg" alt="case2" width="300">
+	  <img src="./result/result_2.jpg" alt="case2" width="240">
       </td>
       <td style="text-align: left">
-	  <img src="./result/result_3.png" alt="case3" width="180">
+	  <img src="./result/result_3.png" alt="case3" width="240">
       </td>
       <td style="text-align: left">
 	  <img src="./result/result_4.jpg" alt="case4" width="240">
@@ -155,9 +155,8 @@ Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/iss
 
 ## 💖 Sponsors and Backers
 
-[![](https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
-
-[![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36)](https://ufund-me.github.io/img/WeChat-sponsor.png)
+<a href="https://ufund-me.github.io/img/WeChat-sponsor.png" target="_blank"><img src="https://opencollective.com/ant-design/tiers/sponsors.svg?avatarHeight=36" alt="Sponsor" width="160"></a>
+<a href="https://ufund-me.github.io/img/WeChat-sponsor.png" target="_blank"><img src="https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=36" alt="Backer" width="900"></a>
 
 <table>
 <tr>
