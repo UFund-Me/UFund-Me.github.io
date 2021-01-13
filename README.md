@@ -67,6 +67,83 @@ This project is still under heavy development. Feel free to join us and make you
 </div>
 <br>
 
+## 📅 Result
+> <b>BLSH</b> - Buy low sell high, hold for a long time / “买低卖高，长期持有” is our goal to maintain high-yield investment.
+
+### Average yield <b>28.41%</b>, <b>82.56%</b> increase compared to 2019
+### I have been using UFund about half a year, just with ￥26,500.00 principal.
+
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left" rowspan="2">
+	  <b>UFund increase returns just with little principal</b>
+      </td>
+      <td style="text-align: center" colspan="3">
+	  <img src="./result/result.png">
+      </td>
+      <td style="text-align: center" colspan="1">
+	  <img src="./result/principal.jpg" alt="principal" width="240">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center" colspan="3">
+	      investment (this year 2020)
+      </td>
+      <td style="text-align: center" colspan="1">
+	     my principal
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left" rowspan="2">
+	  <b>TEST Total Investment</b>
+      </td>
+      <td style="text-align: center" colspan="2">
+	  <img src="./result/Total_Investment.png">
+      </td>
+      <td style="text-align: left" colspan="1">
+	  <img src="./result/year_investment.png">    
+      </td>
+      <td style="text-align: left" colspan="1">
+	  <img src="./result/rank_95.png" width="600">    
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center" colspan="2">
+	  Total Investment since Jul 2020
+      </td>
+      <td style="text-align: center" colspan="1">
+	  yield growth curve (have been used UFund since Jul 2020)
+      </td>
+      <td style="text-align: center" colspan="1">
+	  Investment Rank in All Users  
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left" rowspan="2">
+	  <b>CASE</b>    
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_1.jpg" alt="case1" width="300">    
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_2.jpg" alt="case2" width="300">
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_3.png" alt="case3" width="180">
+      </td>
+      <td style="text-align: left">
+	  <img src="./result/result_4.jpg" alt="case4" width="240">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center" colspan="4">
+	      Average yield <b>28.41%</b>, <b>82.56%</b> increase compared to 2019
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### 🍮 Community
 
 Feel free to put up issues at our <a href="https://github.com/UFund-Me/UFund/issues/1#issue-751252906" target="_blank"> COMMUNITY </a>.
